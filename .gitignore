@@ -1,1 +1,7 @@
 .streamlit/
+draft.ipynb
+questions/culture.json
+questions/geography.json
+questions/history.json
+questions/politics.json
+questions/social_norms.json
